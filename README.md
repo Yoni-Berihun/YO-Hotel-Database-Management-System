@@ -92,3 +92,6 @@ Thank you to Power Learn Project (PLP) for this precious chance to apply what I'
 This project is for educational purposes. Feel free to use and modify it under the MIT License.
 
 If you encounter issues or have suggestions, open an issue in this repository!
+*Made with  ❤️ by Yonatan Berihun*  
+
+![Footer SVG](https://media.licdn.com/dms/image/v2/D4E16AQEec1ZDalBh6A/profile-displaybackgroundimage-shrink_350_1400/B4EZf4jq4KHwAY-/0/1752221794697?e=1758758400&v=beta&t=OmjTLV_Q1E0xQt6YiwqRVNCLvs2GAkp5u1oldTY_Zpc)
